@@ -18,7 +18,7 @@ This project scrapes car listings from the Kai and Karo websites, stores the dat
 * **Python:** For web scraping, data processing, and machine learning.
 * **BeautifulSoup & Selenium:** To scrape data from Kai and Karo websites.
 * **Apache Airflow:** To automate the scraping process.
-* **PostgreSQL:** For database management and storage.
+* **MySQL:** For database management and storage.
 * **Pandas:** For data cleaning and manipulation.
 * **Matplotlib/Seaborn:** For data visualization.
 * **Scikit-learn:** For predictive analysis (linear regression, etc.).
