@@ -22,4 +22,4 @@ This project scrapes car listings from the Kai and Karo websites, stores the dat
 * **Pandas:** For data cleaning and manipulation.
 * **Matplotlib/Seaborn:** For data visualization.
 * **Scikit-learn:** For predictive analysis (linear regression, etc.).
-* **Tableau:** For creating the interactive dashboard.
+* **Tableau:** For creating an interactive dashboard.
