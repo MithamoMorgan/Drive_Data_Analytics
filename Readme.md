@@ -14,7 +14,7 @@ This project scrapes car listings from [Kai and Karo](https://www.kaiandkaro.com
 ## ⚙️Technologies Used:
 
 * **Python:** For web scraping, data processing, and machine learning.
-* **BeautifulSoup & Selenium:** To scrape data from Kai and Karo websites.
+* **BeautifulSoup:** To scrape data from Kai and Karo websites.
 * **Apache Airflow:** To automate the scraping process.
 * **MySQL:** For database management and storage.
 * **Pandas:** For data cleaning and manipulation.
