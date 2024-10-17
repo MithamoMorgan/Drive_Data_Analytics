@@ -1,8 +1,6 @@
 ## 🚗Project Overview:
 
-**Why the title "Drive_Data_Analytics"?** This is a catchy name that blends the concept of "driving" (cars) with "data" and "Analytics", reflecting the predictive analysis features.
-
-This project scrapes car listings from the Kai and Karo websites, stores the data in a database, and analyzes pricing trends in Kenya's car market. The objective is to automate the scraping process, store the data efficiently, and analyze pricing trends with predictive modeling to forecast future car prices.
+This project scrapes car listings from [Kai and Karo](https://www.kaiandkaro.com/vehicles?model__make__vehicle_type=Automobile)  website, stores the data in a database, and analyzes pricing trends in Kenya's car market. The objective is to automate the scraping process, store the data efficiently, and analyze pricing trends with predictive modeling to forecast future car prices.
 
 ## 🧠Key Features:
 
@@ -16,7 +14,7 @@ This project scrapes car listings from the Kai and Karo websites, stores the dat
 ## ⚙️Technologies Used:
 
 * **Python:** For web scraping, data processing, and machine learning.
-* **BeautifulSoup & Selenium:** To scrape data from Kai and Karo websites.
+* **BeautifulSoup:** To scrape data from Kai and Karo websites.
 * **Apache Airflow:** To automate the scraping process.
 * **MySQL:** For database management and storage.
 * **Pandas:** For data cleaning and manipulation.
