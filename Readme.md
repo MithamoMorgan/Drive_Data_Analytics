@@ -22,6 +22,6 @@ This project scrapes car listings from [Kai and Karo](https://www.kaiandkaro.com
 * **Scikit-learn:** For predictive analysis (linear regression, etc.).
 * **Tableau:** For creating an interactive dashboard.
 
-## Dashboard Screenshot
+## Template Dashboard Screenshot
 
 ![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/Dashboard%201.jpg)
