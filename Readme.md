@@ -22,5 +22,5 @@ This project scrapes car listings from [Kai and Karo](https://www.kaiandkaro.com
 
 ## Template Dashboard Screenshot
 
-![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/Image1.jpg)
+![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/Img1.jpg)
 ![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/Img2.jpg)
