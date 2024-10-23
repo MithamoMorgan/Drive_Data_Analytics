@@ -12,6 +12,18 @@ This project aims to scrape car data from the [Kai and Karo](https://www.kaiandk
 * **Matplotlib/Seaborn:** For data visualization.
 * **Tableau:** For creating an interactive dashboard.
 
+## Dataset
+
+The dataset has 8 columns:
+* Name
+* Transimission_Type
+* Engine_Size
+* Usage_Origin
+* Year
+* Price	Make
+* Model	Car_Age
+* Price_Range
+
 ## Dashboard:
 
 To interact with the dashboard, click the following [link](https://public.tableau.com/app/profile/morgan.murimi/viz/Book1_17295698513280/Dashboard?publish=yes).
