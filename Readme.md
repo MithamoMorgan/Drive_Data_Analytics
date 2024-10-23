@@ -8,6 +8,8 @@
 4. [Dataset](#Dataset)
 5. [Problem Statement](#Problem-Statement)
 6. [Data Processing](#Data-Processing)
+7. [Feature Engineering](#Feature-Engineering)
+8. [EDA](#EDA)
 
 ## Overview
 
