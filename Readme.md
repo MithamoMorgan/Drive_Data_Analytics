@@ -4,7 +4,7 @@
 
 1. [Overview](#Overview)
 2. [Tools](#Tools)
-3. [Scraping and Data Storage](#Scraping-an-Data-Storage)
+3. [Scraping and Data Storage](#Scraping-and-Data-Storage)
 
 ## Overview
 
