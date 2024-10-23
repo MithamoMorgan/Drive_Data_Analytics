@@ -26,6 +26,10 @@ The dataset has 8 columns:
 * Car_Age - The age of the car
 * Price_Range - Price categories
 
+## Problem Statement
+
+The Kenyan car market is characterized by fluctuating prices and a wide variety of options, making it challenging for buyers and sellers to understand current trends. There is a lack of accessible, comprehensive data that highlights pricing dynamics and vehicle availability. This project seeks to address this gap by scraping car data from the Kai and Karo website, enabling a deeper understanding of pricing trends and market behavior through a user-friendly dashboard that facilitates exploratory data analysis (EDA).
+
 ## Dashboard:
 
 To interact with the dashboard, click the following [link](https://public.tableau.com/app/profile/morgan.murimi/viz/Book1_17295698513280/Dashboard?publish=yes).
