@@ -12,6 +12,10 @@ This project aims to scrape car data from the [Kai and Karo](https://www.kaiandk
 * **Matplotlib/Seaborn:** For data visualization.
 * **Tableau:** For creating an interactive dashboard.
 
+## Scraping and Data Storage
+
+Here is the [link](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/Scraping.ipynb) to the file with the scraping code.
+
 ## Dataset
 
 The dataset has 8 columns:
