@@ -15,14 +15,16 @@ This project aims to scrape car data from the [Kai and Karo](https://www.kaiandk
 ## Dataset
 
 The dataset has 8 columns:
-* Name
-* Transimission_Type
-* Engine_Size
-* Usage_Origin
-* Year
-* Price	Make
-* Model	Car_Age
-* Price_Range
+* Name - This is the name of the car
+* Transimission_Type - Either Automatic or Manual
+* Engine_Size - The size of the engine in cubic centimeters(CC)
+* Usage_Origin - Either Kenyan used or Foreign used
+* Year - The year of manufacture
+* Price - The price of the car
+* Make - The make of the car eg Toyota
+* Model - Model of the car eg C200 for mercedes benz
+* Car_Age - The age of the car
+* Price_Range - Price categories
 
 ## Dashboard:
 
