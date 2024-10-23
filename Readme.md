@@ -104,6 +104,18 @@ car_df['Price_Range'] = car_df['Price'].apply(lambda x: price_range(x))
 
 Exploratory data analysis was conducted to better understand the data and the relationship between variables. Here is [link](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/EDA_Descriptive.ipynb) to the EDA file.
 
+## Findings
+
+* The latest vehicle models tend to command higher price premiums when compared to older versions, reflecting advancements in technology, safety features, and design.
+
+* Comparative analysis indicates that modern vehicles generally feature larger engine displacements compared to their older counterparts.
+
+* A clear inverse relationship exist between engine size and vehicle cost, with more affordable vehicles typically having smaller engine displacements
+
+* All the vehicles manufactured in 2024 are foreign used and are more than KES 10M. This is a clear indication that there is a positive correlation between the age and price of the vehicle
+
+* Imported vehicles typically command higher prices than locally used kenyan vehicles.
+
 ## Dashboard:
 
 To interact with the dashboard, click the following [link](https://public.tableau.com/app/profile/morgan.murimi/viz/Book1_17295698513280/Dashboard?publish=yes).
