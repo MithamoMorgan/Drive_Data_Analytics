@@ -10,6 +10,10 @@
 6. [Data Processing](#Data-Processing)
 7. [Feature Engineering](#Feature-Engineering)
 8. [EDA](#EDA)
+9. [Findings](#Findings)
+10. [Dashboard](#Dashboard)
+11. [Template Dashboard Screenshot](#Template-Dashboard-Screenshot)
+12. [Conclusion](#Conclusion)
 
 ## Overview
 
@@ -128,7 +132,7 @@ Exploratory data analysis was conducted to better understand the data and the re
 
 * Imported vehicles typically command higher prices than locally used kenyan vehicles.
 
-## Dashboard:
+## Dashboard
 
 To interact with the dashboard, click the following [link](https://public.tableau.com/app/profile/morgan.murimi/viz/Book1_17295698513280/Dashboard?publish=yes).
 
