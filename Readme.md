@@ -34,7 +34,67 @@ The Kenyan car market is characterized by fluctuating prices and a wide variety 
 
 The data had 64 duplicates which were droped and all the data inconsistencies were corrected. Here is the [preprocessing file](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/preprocessing.ipynb) with the code used to clean the data.
 
+## Feature Engineering
 
+Only 4 features were added from the original features. Make and Model were both extracted from name column using the following code;
+
+```python
+# Split column 'Name' into 'Make' and 'Model'
+
+car_df['Name'] = car_df['Name'].str.title()
+unique_names = ['Alfa Romeo', 'Aston Martin', 'Land Rover', 'Mercedes Benz', 'Rolls Royce', 'Range Rover']
+
+def split_name(Name):
+    for unique_name in unique_names:
+        if Name.startswith(unique_name):
+            Make = unique_name
+            Model = Name[len(Make):].strip()
+            return Make, Model
+
+    single_name_make = Name.split(' ', 1)
+    if len(single_name_make) > 1:
+        Make, Model = single_name_make[0], single_name_make[1]
+    else:
+        Make = Name
+        Model = ''
+    return Make, Model
+
+car_df[['Make', 'Model']] = car_df['Name'].apply(lambda x: pd.Series(split_name(x)))
+```
+Car_Age was extracted from Year colum;
+
+```python
+# Get the current year
+date = date.today()
+year = date.year
+
+# Get the car age
+car_df['Car_Age'] = car_df['Year'].apply(lambda x: year - x)
+```
+
+Finally Price_Range from Price colum;
+
+```python
+def price_range(Price):
+    if Price <= 1000000:
+        return '0-1M'
+    elif Price <= 2000000:
+        return '1M-2M'
+    elif Price <= 3000000:
+        return '2M-3M'
+    elif Price <= 5000000:
+        return '3M-5M'
+    elif Price <= 10000000:
+        return '5M-10M'
+    elif Price <= 20000000:
+        return '10M-20M'
+    elif Price <= 30000000:
+        return '20M-30M'
+    else:
+        return 'Above 30M'
+
+car_df['Price_Range'] = car_df['Price'].apply(lambda x: price_range(x))
+```
 ## Dashboard:
 
 To interact with the dashboard, click the following [link](https://public.tableau.com/app/profile/morgan.murimi/viz/Book1_17295698513280/Dashboard?publish=yes).
