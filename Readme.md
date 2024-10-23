@@ -1,9 +1,16 @@
 ![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/header_img.jpg)
-## Project Overview:
+
+## Table of Contents
+
+1. [Overview](#Overview)
+2. [Tools](#Tools)
+3. [Scraping and Data Storage](#Scraping-an-Data-Storage)
+
+## Overview
 
 This project aims to scrape car data from the [Kai and Karo](https://www.kaiandkaro.com/vehicles?model__make__vehicle_type=Automobile)  website, store the data in a database, and analyze pricing trends in Kenya's car market. The dashboard will provide an interactive overview of key metrics, enabling users to perform exploratory data analysis (EDA) on various factors influencing car prices.
 
-## Tools:
+## Tools
 
 * **Python:** For web scraping, data processing, and machine learning.
 * **BeautifulSoup:** To scrape data from Kai and Karo websites.
