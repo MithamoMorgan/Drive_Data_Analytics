@@ -20,7 +20,11 @@ This project scrapes car listings from [Kai and Karo](https://www.kaiandkaro.com
 * **Matplotlib/Seaborn:** For data visualization.
 * **Tableau:** For creating an interactive dashboard.
 
+## Dashboard:
+
+To interact with the dashboard, click the following [link](https://public.tableau.com/app/profile/morgan.murimi/viz/Book1_17295698513280/Dashboard?publish=yes).
+
 ## Template Dashboard Screenshot
 
-![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/Image1.jpg)
+![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/img1.jpg)
 ![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/Img2.jpg)
