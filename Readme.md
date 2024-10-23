@@ -32,7 +32,7 @@ The Kenyan car market is characterized by fluctuating prices and a wide variety 
 
 ## Data Processing
 
-The data had 64 duplicates which were droped and all the data inconsistencies were corrected. Here is the [preprocessing file](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/preprocessing.ipynb) with the code used to clean the data.
+The data had 64 duplicates which were droped and all the data inconsistencies were corrected. Here is the [link](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/preprocessing.ipynb) to the preprocessing  file with the code used to clean the data.
 
 ## Feature Engineering
 
