@@ -5,6 +5,9 @@
 1. [Overview](#Overview)
 2. [Tools](#Tools)
 3. [Scraping and Data Storage](#Scraping-and-Data-Storage)
+4. [Dataset](#Dataset)
+5. [Problem Statement](#Problem-Statement)
+6. [Data Processing](#Data-Processing)
 
 ## Overview
 
