@@ -124,3 +124,7 @@ To interact with the dashboard, click the following [link](https://public.tablea
 
 ![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/img1.jpg)
 ![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/Img2.jpg)
+
+## Conclusion
+
+This project successfully scraped and analyzed car data from the Kai and Karo website, providing insights into the Kenyan car market. Key findings revealed correlations between vehicle age and price, as well as engine size and affordability. The interactive dashboard offers users a valuable tool for exploring these trends, addressing the need for accessible market data. Future enhancements could involve expanding the dataset and integrating predictive modeling techniques for real-time analysis.
