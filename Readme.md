@@ -95,6 +95,11 @@ def price_range(Price):
 
 car_df['Price_Range'] = car_df['Price'].apply(lambda x: price_range(x))
 ```
+
+## EDA
+
+Exploratory data analysis was conducted to better understand the data and the relationship between variables. Here is [link](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/EDA_Descriptive.ipynb) to the EDA file.
+
 ## Dashboard:
 
 To interact with the dashboard, click the following [link](https://public.tableau.com/app/profile/morgan.murimi/viz/Book1_17295698513280/Dashboard?publish=yes).
