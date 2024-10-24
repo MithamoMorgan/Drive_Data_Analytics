@@ -50,7 +50,7 @@ Here is the [link](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/ma
 
 ## Problem Statement
 
-The Kenyan car market is characterized by fluctuating prices and a wide variety of options, making it challenging for buyers and sellers to understand current trends. There is a lack of accessible, comprehensive data that highlights pricing dynamics and vehicle availability. This project seeks to address this gap by scraping car data from the Kai and Karo website, enabling a deeper understanding of pricing trends and market behavior through a user-friendly dashboard that facilitates exploratory data analysis (EDA).
+The Kenyan car market is characterized by fluctuating prices and a wide variety of options, making it challenging for buyers and sellers to understand current trends. There is a lack of accessible, comprehensive data that highlights pricing dynamics and vehicle availability. This project seeks to address this gap by scraping car data from a car listings website, enabling a deeper understanding of pricing trends and market behavior through a user-friendly dashboard that facilitates exploratory data analysis (EDA).
 
 ## Data Processing
 
