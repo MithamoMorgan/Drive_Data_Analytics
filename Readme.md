@@ -137,7 +137,7 @@ Exploratory data analysis was conducted to better understand the data and the re
 
 * Imported vehicles typically command higher prices than locally used kenyan vehicles.
 
-## Dashboard
+## Tableau Dashboard
 
 To interact with the dashboard, click the following [link](https://public.tableau.com/app/profile/morgan.murimi/viz/Book1_17295698513280/Dashboard?publish=yes).
 
