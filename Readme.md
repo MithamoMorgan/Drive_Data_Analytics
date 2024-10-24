@@ -46,7 +46,7 @@ The dataset has 8 columns:
 * Car_Age - The age of the car
 * Price_Range - Price categories
 
-Here is the [link](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/final_clean_car_data.csv) to access the dataset.
+Here is the [link](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/final_clean_car_data.csv) to access the dataset. Feel free to download the dataset for more analysis.
 
 ## Problem Statement
 
