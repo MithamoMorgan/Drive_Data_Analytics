@@ -145,4 +145,4 @@ To interact with the dashboard, click the following [link](https://public.tablea
 
 ## Conclusion
 
-This project successfully scraped and analyzed car data from the Kai and Karo website, providing insights into the Kenyan car market. Key findings revealed correlations between vehicle age and price, as well as engine size and affordability. The interactive dashboard offers users a valuable tool for exploring these trends, addressing the need for accessible market data. Future enhancements could involve expanding the dataset and integrating predictive modeling techniques for real-time analysis.
+This project successfully scraped and analyzed car data from a car listings website, providing insights into the Kenyan car market. Key findings revealed correlations between vehicle age and price, as well as engine size and affordability. The interactive dashboard offers users a valuable tool for exploring these trends, addressing the need for accessible market data. Future enhancements could involve expanding the dataset and integrating predictive modeling techniques for real-time analysis.
