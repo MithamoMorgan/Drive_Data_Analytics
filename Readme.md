@@ -17,7 +17,7 @@
 
 ## Overview
 
-This project aims to scrape car data from the [Kai and Karo](https://www.kaiandkaro.com/vehicles?model__make__vehicle_type=Automobile)  website, store the data in a database, and analyze pricing trends in Kenya's car market. The dashboard will provide an interactive overview of key metrics, enabling users to perform exploratory data analysis (EDA) on various factors influencing car prices.
+This project aims to scrape car data from [Kai and Karo](https://www.kaiandkaro.com/vehicles?model__make__vehicle_type=Automobile)  website, store the data in a database, and analyze pricing trends in Kenya's car market. The dashboard will provide an interactive overview of key metrics, enabling users to perform exploratory data analysis (EDA) on various factors influencing car prices.
 
 ## Tools
 
