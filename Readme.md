@@ -24,6 +24,7 @@ This project aims to scrape car data from the [Kai and Karo](https://www.kaiandk
 * **Python:** For web scraping, data processing, and machine learning.
 * **BeautifulSoup:** To scrape data from Kai and Karo websites.
 * **MySQL:** For database management and storage.
+* **DBeaver:** For managing and interacting with databases, facilitating SQL queries.
 * **Pandas:** For data cleaning and manipulation.
 * **Matplotlib/Seaborn:** For data visualization.
 * **Tableau:** For creating an interactive dashboard.
