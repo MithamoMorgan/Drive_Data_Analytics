@@ -141,7 +141,7 @@ Exploratory data analysis was conducted to better understand the data and the re
 
 The dashboard features interactive filters, including Price Range and Year, allowing users to customize the data to meet their specific needs.
 
-**NB:** If you are using your phone you can switch to desktop layout for better interaction and visualization.
+**Note:** For an enhanced interaction and visualization experience, consider switching to desktop layout if you are using a mobile device.
 
 To interact with the dashboard, click the following [link](https://public.tableau.com/app/profile/morgan.murimi/viz/Book1_17295698513280/Dashboard?publish=yes).
 
