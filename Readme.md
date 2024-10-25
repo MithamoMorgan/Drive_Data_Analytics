@@ -11,7 +11,7 @@
 7. [Feature Engineering](#Feature-Engineering)
 8. [EDA](#EDA)
 9. [Findings](#Findings)
-10. [Dashboard](#Dashboard)
+10. [Tableau Dashboard](#Tableau-Dashboard)
 11. [Template Dashboard Screenshot](#Template-Dashboard-Screenshot)
 12. [Conclusion](#Conclusion)
 
