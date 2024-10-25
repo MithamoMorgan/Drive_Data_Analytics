@@ -15,8 +15,9 @@
 9. [Findings](#Findings)
 10. [Tableau Dashboard](#Tableau-Dashboard)
 11. [Sample Dashboard Screenshots](#Sample-Dashboard-Screenshots)
-12. [Conclusion](#Conclusion)
-13. [Future Enhancements](#Future-Enhancements)
+12. [How to Run This Project](#How-to-Run-This-Project)
+13. [Conclusion](#Conclusion)
+14. [Future Enhancements](#Future-Enhancements)
 
 ## Overview
 
