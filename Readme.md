@@ -161,8 +161,9 @@ To interact with the dashboard, click the following [link](https://public.tablea
 ![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/Images/img2.jpg)
 
 ## How to Run This Project
+You can run this project using these easy steps.
 
-To run the Drive_Data_Analytics, Ensure you have the following installed on your machine.
+1. Ensure you have the following installed on your machine.
 
 * **python**(preferably version 3.x).
 * Jupyter Notebook
@@ -171,10 +172,10 @@ To run the Drive_Data_Analytics, Ensure you have the following installed on your
 * **Tableau** (for dashboard creation).
 * **DBeaver** (optional but recommended)
 
-Also install the necessary dependencies (listed in th requirements.txt file).
+2. Install the necessary dependencies (listed in th requirements.txt file).
 
-Clone the repository using;
-
+3. Clone the repository using:
+   
 ```git clone https://github.com/MithamoMorgan/Drive_Data_Analytics.git```
 
 ## Conclusion
