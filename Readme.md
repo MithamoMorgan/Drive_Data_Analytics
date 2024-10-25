@@ -173,6 +173,10 @@ To run the Drive_Data_Analytics, Ensure you have the following installed on your
 
 Also install the necessary dependencies (listed in th requirements.txt file).
 
+Clone the repository using;
+
+```git clone https://github.com/MithamoMorgan/Drive_Data_Analytics.git```
+
 ## Conclusion
 
 This project successfully scraped and analyzed car data from a car listings website, providing insights into the Kenyan car market. Key findings revealed correlations between vehicle age and price, as well as engine size and affordability. The interactive dashboard offers users a valuable tool for exploring these trends, addressing the need for accessible market data.
