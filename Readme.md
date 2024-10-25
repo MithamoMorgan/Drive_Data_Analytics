@@ -140,7 +140,9 @@ Exploratory data analysis was conducted to better understand the data and the re
 ## Tableau Dashboard
 
 The dashboard features interactive filters, including Price Range and Year, allowing users to customize the data to meet their specific needs.
+
 **NB:** If you are using your phone you can switch to desktop layout for better interaction and visualization.
+
 To interact with the dashboard, click the following [link](https://public.tableau.com/app/profile/morgan.murimi/viz/Book1_17295698513280/Dashboard?publish=yes).
 
 ## Template Dashboard Screenshot
