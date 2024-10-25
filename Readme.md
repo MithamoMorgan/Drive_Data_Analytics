@@ -1,4 +1,4 @@
-![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/header_img2.jpeg)
+![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/Images/header_img2.jpeg)
 
 ## Table of Contents
 
@@ -53,7 +53,7 @@ Here is the [link](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/ma
 
 Sample of the first few rows.
 
-![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/csv%20img.jpg)
+![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/Images/csv%20img.jpg)
 
 ## Problem Statement
 
@@ -147,14 +147,14 @@ The dashboard features interactive filters, including Price Range and Year, allo
 
 **Note:** For an enhanced interaction and visualization experience, consider switching to desktop layout if you are using a mobile device.
 
-![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/Tableau_desktop_icon.jpg)
+![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/Images/Tableau_desktop_icon.jpg)
 
 To interact with the dashboard, click the following [link](https://public.tableau.com/app/profile/morgan.murimi/viz/Book1_17295698513280/Dashboard?publish=yes).
 
 ## Sample Dashboard Screenshots
 
-![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/img1.jpg)
-![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/Img2.jpg)
+![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/Images/img1.jpg)
+![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/Images/img2.jpg)
 
 ## Conclusion
 
