@@ -12,7 +12,7 @@
 8. [EDA](#EDA)
 9. [Findings](#Findings)
 10. [Tableau Dashboard](#Tableau-Dashboard)
-11. [Template Dashboard Screenshot](#Template-Dashboard-Screenshot)
+11. [Sample Dashboard Screenshots](#Sample-Dashboard-Screenshots)
 12. [Conclusion](#Conclusion)
 
 ## Overview
@@ -147,7 +147,7 @@ The dashboard features interactive filters, including Price Range and Year, allo
 
 To interact with the dashboard, click the following [link](https://public.tableau.com/app/profile/morgan.murimi/viz/Book1_17295698513280/Dashboard?publish=yes).
 
-## Template Dashboard Screenshot
+## Sample Dashboard Screenshots
 
 ![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/img1.jpg)
 ![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/Img2.jpg)
