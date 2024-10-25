@@ -165,6 +165,7 @@ To interact with the dashboard, click the following [link](https://public.tablea
 To run the Drive_Data_Analytics, Ensure you have the following installed on your machine.
 
 * **python**(preferably version 3.x).
+* Jupyter Notebook
 * **MySQL** (to store car data).
 * **Git** (to clone the repository).
 * **Tableau** (for dashboard creation).
