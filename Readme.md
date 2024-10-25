@@ -143,6 +143,8 @@ The dashboard features interactive filters, including Price Range and Year, allo
 
 **Note:** For an enhanced interaction and visualization experience, consider switching to desktop layout if you are using a mobile device.
 
+![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/Tableau_desktop_icon.jpg)
+
 To interact with the dashboard, click the following [link](https://public.tableau.com/app/profile/morgan.murimi/viz/Book1_17295698513280/Dashboard?publish=yes).
 
 ## Template Dashboard Screenshot
