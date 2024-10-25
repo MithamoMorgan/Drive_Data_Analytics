@@ -165,12 +165,12 @@ You can run this project using these easy steps.
 
 1. Ensure you have the following installed on your machine.
 
-* **python**(preferably version 3.x).
-* Jupyter Notebook
-* **MySQL** (to store car data).
-* **Git** (to clone the repository).
-* **Tableau** (for dashboard creation).
-* **DBeaver** (optional but recommended)
+    * **python**(preferably version 3.x).
+    * Jupyter Notebook
+    * **MySQL** (to store car data).
+    * **Git** (to clone the repository).
+    * **Tableau** (for dashboard creation).
+    * **DBeaver** (optional but recommended)
 
 2. Install the necessary dependencies (listed in th requirements.txt file).
 
