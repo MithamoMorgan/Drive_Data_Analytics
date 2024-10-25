@@ -158,8 +158,9 @@ To interact with the dashboard, click the following [link](https://public.tablea
 This project successfully scraped and analyzed car data from a car listings website, providing insights into the Kenyan car market. Key findings revealed correlations between vehicle age and price, as well as engine size and affordability. The interactive dashboard offers users a valuable tool for exploring these trends, addressing the need for accessible market data.
 
 ## Future Enhancements
+
 1. Expanding the dataset and integrating predictive modeling techniques for real-time analysis.
 
-2. Automating the scraping and cleaning process using Apache Airflow.
+2. Automating the data scraping and cleaning process utilizing Apache Airflow.
 
-3. Building a user friendly streamlit app for predictions
+3. Developing a user-friendly Streamlit application for predictions.
