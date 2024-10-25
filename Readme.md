@@ -37,7 +37,7 @@ Here is the [link](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/ma
 
 ## Dataset
 
-The dataset has 8 columns and 2381 rows.
+The dataset has 8 columns and 2,381 rows.
 
 * Name - This is the name of the car
 * Transimission_Type - Either Automatic or Manual
