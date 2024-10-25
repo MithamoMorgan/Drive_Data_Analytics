@@ -159,6 +159,16 @@ To interact with the dashboard, click the following [link](https://public.tablea
 ![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/Images/img1.jpg)
 ![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/Images/img2.jpg)
 
+## How to Run This Project
+
+To run the Drive_Data_Analytics, Ensure you have the following installed on your machine.
+
+* **python**(preferably version 3.x).
+* **MySQL** (to store car data).
+* **Git** (to clone the repository).
+* **Tableau** (for dashboard creation).
+* **DBeaver** (optional but recommended)
+
 ## Conclusion
 
 This project successfully scraped and analyzed car data from a car listings website, providing insights into the Kenyan car market. Key findings revealed correlations between vehicle age and price, as well as engine size and affordability. The interactive dashboard offers users a valuable tool for exploring these trends, addressing the need for accessible market data.
