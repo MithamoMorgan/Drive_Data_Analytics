@@ -159,4 +159,4 @@ This project successfully scraped and analyzed car data from a car listings webs
 ## Future Enhancements
 1. Expanding the dataset and integrating predictive modeling techniques for real-time analysis.
 
-2. Automating the scraping process using Apache Airflow. 
+2. Automating the scraping and cleaning process using Apache Airflow. 
