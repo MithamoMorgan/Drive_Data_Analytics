@@ -1,0 +1,7 @@
+beautifulsoup4
+pandas
+matplotlib
+seaborn
+jupyter
+mysql-connector-python
+
