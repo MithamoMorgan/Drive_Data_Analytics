@@ -14,6 +14,7 @@
 10. [Tableau Dashboard](#Tableau-Dashboard)
 11. [Sample Dashboard Screenshots](#Sample-Dashboard-Screenshots)
 12. [Conclusion](#Conclusion)
+13. [Future Enhancements](#Future-Enhancements)
 
 ## Overview
 
@@ -159,4 +160,6 @@ This project successfully scraped and analyzed car data from a car listings webs
 ## Future Enhancements
 1. Expanding the dataset and integrating predictive modeling techniques for real-time analysis.
 
-2. Automating the scraping and cleaning process using Apache Airflow. 
+2. Automating the scraping and cleaning process using Apache Airflow.
+
+3. Building a user friendly streamlit app for predictions
