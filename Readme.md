@@ -1,4 +1,4 @@
-![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/header_img.jpg)
+![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/header_img2.jpeg)
 
 ## Table of Contents
 
