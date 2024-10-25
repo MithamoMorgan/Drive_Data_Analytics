@@ -169,6 +169,8 @@ To run the Drive_Data_Analytics, Ensure you have the following installed on your
 * **Tableau** (for dashboard creation).
 * **DBeaver** (optional but recommended)
 
+Also install the necessary dependencies (listed in th requirements.txt file).
+
 ## Conclusion
 
 This project successfully scraped and analyzed car data from a car listings website, providing insights into the Kenyan car market. Key findings revealed correlations between vehicle age and price, as well as engine size and affordability. The interactive dashboard offers users a valuable tool for exploring these trends, addressing the need for accessible market data.
