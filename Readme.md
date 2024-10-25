@@ -174,9 +174,9 @@ You can run this project using these easy steps.
 
 2. Install the necessary dependencies (listed in th requirements.txt file).
 
-3. Clone the repository using:
+3. Clone the project repository from GitHub using the following command:
    
-```git clone https://github.com/MithamoMorgan/Drive_Data_Analytics.git```
+    ```git clone https://github.com/MithamoMorgan/Drive_Data_Analytics.git```
 
 ## Conclusion
 
