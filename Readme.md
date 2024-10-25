@@ -51,6 +51,8 @@ The dataset has 8 columns and 2381 rows.
 
 Here is the [link](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/final_clean_car_data.csv) to access the dataset. Feel free to download the dataset for more analysis.
 
+Here is a sample of the first few rows.
+
 ![](https://github.com/MithamoMorgan/Drive_Data_Analytics/blob/master/csv%20img.jpg)
 
 ## Problem Statement
